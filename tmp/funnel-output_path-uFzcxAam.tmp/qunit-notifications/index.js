@@ -1,0 +1,1 @@
+/root/Desktop/projects/emberjs-example/tmp/funnel-input_base_path-t6o9dXPj.tmp/0/index.js
